@@ -18,6 +18,7 @@ To get a local copy up and running follow these simple steps.
         mongodb://hostname:port/
 
 Create DB name: todo
+
 Create collection name: tasks
 
 ### APIs
